@@ -16,6 +16,20 @@ def act1():
     print(karolina.chapter1())
     print(luca.chapter1())
 
+def act2():
+    print(jelle.chapter2())
+    print(yuyue.chapter2())
+    print(alexia.chapter2())
+    print(rachna.chapter2())
+    print(karolina.chapter2())
+    print(luca.chapter2())
     
+def act3():
+    print(jelle.chapter3())
+    print(yuyue.chapter3())
+    print(alexia.chapter3())
+    print(rachna.chapter3())
+    print(karolina.chapter3())
+    print(luca.chapter3())
 act1()
 teamname()
