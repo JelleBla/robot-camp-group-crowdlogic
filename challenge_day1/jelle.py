@@ -24,7 +24,3 @@ def chapter2():
 def chapter3():
     text = f'Suddenly they start hearing voices: ‘Train to Urk leaves in 20 minutes from track 2!’.{karolina.character()} and {yuyue.character()} realize at the same time, from different places that they need to catch that train. It is however impossible to move in the right direction. {luca.character()} could not hear the voice yet, as she was still crying. {character()} was in shock of the scenes he was seeing from the other side of the fence. {alexia.character()} and {rachna.character()} are only able to think about each other, but luckily the voice is reaching them now too, bringing them back to reality. They think about Urk, and all the beautiful memories the six of themhave together there. They too start moving to the right direction. At the same time someone walksinto {luca.character()}, and asks her if she is okay and where she needs to go. She tells the young boy, he doesn’tlook older than 14, that she has to go to Urk. He says he heard a man shouting that the train to Urkleaves from track 2 at Station Bijlmer Arena. She stands up, straightens her back, thinks about the other 5 and follows the crowd to the station. {character()} too has now heard the voice and starts heading towards the station.'
     return text
-
-print(chapter1())
-print(chapter2())
-print(chapter3())
