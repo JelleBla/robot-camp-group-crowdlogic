@@ -6,4 +6,4 @@ import yuyue
 #import alexia
 
 def teamname():
-    print(f'This is team CrowdLogic, we are: {jelle.jelle()}, {yuyue.yuyue()}')
+    print(f'This is team CrowdLogic, we are: {jelle.jelle()}, {yuyue.yuyue()}, {rachna.rachna()}')
