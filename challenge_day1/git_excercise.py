@@ -7,5 +7,6 @@ import alexia
 
 
 def teamname():
-    print(f'This is team CrowdLogic, we are: {jelle.jelle()}, {yuyue.yuyue()}, {rachna.rachna()}, {alexia.alexia()}, {luca.luca()}')
-    return
+    print(f'This is team CrowdLogic, we are: {jelle.jelle()}, {yuyue.yuyue()}, {alexia.alexia()}, {rachna.rachna()}, {karolina.karolina()}, {luca.luca()}')
+
+teamname()
