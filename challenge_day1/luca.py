@@ -4,9 +4,6 @@ import alexia
 import yuyue
 import karolina 
 
-
-
-
 def name():
     name = "Luca"
     return name
@@ -16,7 +13,7 @@ def character():
     return ch
 
 def chapter1():
-    txt= f"The game was good, and everyone was happy about the result. {character()}, {jelle.character()} and {rachna.character()} were happily discussing it while {karolina.character()}, {alexia.character()} and {yuyue.character()} were singing with the local ultras.The six lovers were enjoying the beautiful moments they were having together, taking selfies and sharing a kiss. But the time had to come for them to leave, so they looked for an exit."
+    txt= f'The game was good, and everyone was happy about the result. {character()}, {jelle.character()} and {rachna.character()} were happily discussing it while {karolina.character()}, {alexia.character()} and {yuyue.character()} were singing with the local ultras.The six lovers were enjoying the beautiful moments they were having together, taking selfies and sharing a kiss. But the time had to come for them to leave, so they looked for an exit.'
     return txt
     
 def chapter2():
@@ -27,3 +24,6 @@ def chapter3():
     txt= f"In the end, {character()}, {jelle.character()}, {karolina.character()}, {alexia.character()}, {yuyue.character()} and {rachna.character()} were sitting in the train telling each other's crazy stories on how they survived the crowd. The six lovers were relieved to have found each other again, and now their love was stronger than ever. And just like this, the story of the six lovers' end. Some people may say that this is a bad story, some people that is not coherent. But does it really matter? Just like love, a love story has no rules or no boundaries." 
     return txt
 
+print(chapter1())
+print(chapter2())
+print(chapter3())
