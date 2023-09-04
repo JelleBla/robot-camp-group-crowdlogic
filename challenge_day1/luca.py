@@ -4,7 +4,7 @@ import alexia
 import yuyue
 import karolina 
 
-def name():
+def luca():
     name = "Luca"
     return name
 

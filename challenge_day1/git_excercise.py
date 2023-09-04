@@ -31,5 +31,9 @@ def act3():
     print(rachna.chapter3())
     print(karolina.chapter3())
     print(luca.chapter3())
-act1()
+    
 teamname()
+act1()
+act2()
+act3()
+
