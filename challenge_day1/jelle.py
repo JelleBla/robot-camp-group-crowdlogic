@@ -18,7 +18,7 @@ def chapter1():
     return text
 
 def chapter2():
-    text = f'{luca.character()}, {character()} and {rachna.character()} only have eye for each other while exiting the stadium.They loved the game, but realize they love each other more. {karolina.character()}, {alexia.character()} and {yuyue.character()}however got carried away singing together with the other Ajax Ultras. At some point{karolina.character()} realized that she could not see {luca.character()}, {character()} and {rachna.character()} anymore, but she thinks theyprobably went to the toilets together as they seemed to be looking at each other more than at the field. '
+    text = f'{luca.character()}, {character()} and {rachna.character()} only have eye for each other while exiting the stadium.They loved the game, but realize they love each other more. {karolina.character()}, {alexia.character()} and {yuyue.character()}however got carried away singing together with the other Ajax Ultras. At some point{karolina.character()} realized that she could not see {luca.character()}, {character()} and {rachna.character()} anymore, but she thinks they probably went to the toilets together as they seemed to be looking at each other more than at the field. '
     return text
 
 def chapter3():
