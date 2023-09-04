@@ -17,10 +17,14 @@ def chapter1():
     return txt
     
 def chapter2():
-    txt = f"Pure chaos. {alexia.character()} was too drunk to care about people pushing him. {character()} was crying as she was stuck between two very tall man. {jelle.character()}, on the other hand, managed to avoid the crowd by jumping the fence.{yuyue.character()} was having fun as the crowd reminded him of being in the middle of a rave, also he was too drunk to care. {rachna.character()} and {karolina.character()} were making use of the cover from the crowd to explore each other's bodies. All of them were just trying to catch a train." 
+    txt = f"Pure chaos. {alexia.character()} was too drunk to care about people pushing him. {character()} was crying as she was stuck between two very tall man. {jelle.character()}, on the other hand, managed to avoid the crowd by jumping the fence. {yuyue.character()} was having fun as the crowd reminded him of being in the middle of a rave, also he was too drunk to care. {rachna.character()} and {karolina.character()} were making use of the cover from the crowd to explore each other's bodies. All of them were just trying to catch a train." 
     return txt
 
 def chapter3():
+<<<<<<< HEAD
     txt= f"In the end, {character()}, {jelle.character()}, {karolina.character()}, {alexia.character()}, {yuyue.character()} and {rachna.character()} were sitting in the train telling each other's crazy stories on how they survived the crowd. The six lovers were relieved to have found each other again, and now their love was stronger than ever. And just like this, the story of the six lovers' end. Some people may say that this is a bad story, while others may find it incoherent. But does it really matter? Just like love, a love story has no rules or no boundaries." 
+=======
+    txt= f"In the end, {character()}, {jelle.character()}, {karolina.character()}, {alexia.character()}, {yuyue.character()} and {rachna.character()} were sitting in the train telling each other their crazy stories on how they survived the crowd. The six lovers were relieved to have found each other again, and now their love was stronger than ever. And just like this, the story of the six lovers ends. Some people may say that this is a bad story, some that it is not coherent. But does it really matter? Just like love itself, a love story can be hot and messy." 
+>>>>>>> 3af6ec42c9c2fafc795810d5de53d834855a74dd
     return txt
 
