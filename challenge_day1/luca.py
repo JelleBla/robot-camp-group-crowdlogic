@@ -21,6 +21,6 @@ def chapter2():
     return txt
 
 def chapter3():
-    txt= f"In the end, {character()}, {jelle.character()}, {karolina.character()}, {alexia.character()}, {yuyue.character()} and {rachna.character()} were sitting in the train telling each other's crazy stories on how they survived the crowd. The six lovers were relieved to have found each other again, and now their love was stronger than ever. And just like this, the story of the six lovers' end. Some people may say that this is a bad story, some people that is not coherent. But does it really matter? Just like love, a love story has no rules or no boundaries." 
+    txt= f"In the end, {character()}, {jelle.character()}, {karolina.character()}, {alexia.character()}, {yuyue.character()} and {rachna.character()} were sitting in the train telling each other's crazy stories on how they survived the crowd. The six lovers were relieved to have found each other again, and now their love was stronger than ever. And just like this, the story of the six lovers' end. Some people may say that this is a bad story, while others may find it incoherent. But does it really matter? Just like love, a love story has no rules or no boundaries." 
     return txt
 
