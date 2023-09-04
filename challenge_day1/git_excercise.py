@@ -10,7 +10,7 @@ def teamname():
     print(f'This is team CrowdLogic, we are: {jelle.jelle()}, {yuyue.yuyue()}, {alexia.alexia()}, {rachna.rachna()}, {karolina.karolina()}, and {luca.luca()}.')
 
 def act1():
-    print(rachna.para1())
+    print(rachna.chapter1())
     
 
 teamname()
