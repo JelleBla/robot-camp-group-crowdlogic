@@ -1,8 +1,8 @@
-import jelle.py
-import yuyue.py
-import alexia.py
-import rachna.py
-import luca.py
+import jelle
+import yuyue
+import alexia
+import rachna
+import luca
 
 def karolina():
     name = 'Karolina'
