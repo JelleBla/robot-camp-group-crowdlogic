@@ -5,14 +5,17 @@ import luca
 import karolina
 import alexia
 
-names = ['jelle', 'yuyue', 'alexia', 'rachna', 'karolina', 'luca']
-
 def teamname():
     print(f'This is team CrowdLogic, we are: {jelle.jelle()}, {yuyue.yuyue()}, {alexia.alexia()}, {rachna.rachna()}, {karolina.karolina()}, and {luca.luca()}.')
 
 def act1():
-    for name in names:
-        print(name.chapter1())
-    
+    print(jelle.chapter1())
+    print(yuyue.chapter1())
+    print(alexia.chapter1())
+    print(rachna.chapter1())
+    print(karolina.chapter1())
+    print(luca.chapter1())
 
+    
+act1()
 teamname()
