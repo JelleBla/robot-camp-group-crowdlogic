@@ -9,7 +9,7 @@ def karolina():
     return name
 
 def character():
-    return Harley
+    return "Harley"
 
 def chapter1():
     return (f"After half-time everyone tried to get back to their seats. They went through the loud crowd shouting in excitement for the second part of the game and managed to get back just in time for the start. However, {alexia.character()}’s and {karolina.character()}’s food didn’t survive the trip as they dropped it on the floor while trying to sit down and unfortunately landed on {yuyue.character()}’s and Bob’s clothes. {luca.character()} suggested that there’s no time to go back to the bathroom and asked {rachna.character()} if she has any tissues to give. {rachna.character()} nodded in agreement as she reached out to her purse. ")
