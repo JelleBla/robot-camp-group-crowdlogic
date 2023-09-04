@@ -6,7 +6,7 @@ import karolina
 import alexia
 
 def teamname():
-    print(f'This is team CrowdLogic, we are: {jelle.jelle()}, {yuyue.yuyue()}, {alexia.alexia()}, {rachna.rachna()}, {karolina.karolina()}, and {luca.luca()}.\n')
+    print(f'{jelle.jelle()}, {yuyue.yuyue()}, {alexia.alexia()}, {rachna.rachna()}, {karolina.karolina()}, {luca.luca()}.\n')
 
 def act1():
     print(jelle.chapter1())
@@ -33,10 +33,3 @@ def act3():
     print(luca.chapter3())
     
 teamname()
-print("Act one: \n")
-act1()
-print("Act two: \n")
-act2()
-print("Act three: \n")
-act3()
-
