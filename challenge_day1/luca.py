@@ -13,7 +13,7 @@ def character():
     return ch
 
 def chapter1():
-    txt= f'The game was good, and everyone was happy about the result. {character()}, {jelle.character()} and {rachna.character()} were happily discussing it while {karolina.character()}, {alexia.character()} and {yuyue.character()} were singing with the local ultras.The six lovers were enjoying the beautiful moments they were having together, taking selfies and sharing a kiss. But the time had to come for them to leave, so they looked for an exit.'
+    txt= f'The game was good, and everyone was happy about the result. {character()}, {jelle.character()} and {rachna.character()} were happily discussing it while {karolina.character()}, {alexia.character()} and {yuyue.character()} were singing with the local ultras. The six lovers were enjoying the beautiful moments they were having together, taking selfies and sharing a kiss. But the time had come for them to leave, so they looked for an exit.'
     return txt
     
 def chapter2():
