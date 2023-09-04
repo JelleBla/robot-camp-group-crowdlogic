@@ -6,9 +6,8 @@ import karolina
 import alexia
 
 def teamname():
-    print(f'This is team CrowdLogic, we are: {jelle.jelle()}, {yuyue.yuyue()}, {alexia.alexia()}, {rachna.rachna()}, {karolina.karolina()}, and {luca.luca()}.')
+    print(f'This is team CrowdLogic, we are: {jelle.jelle()}, {yuyue.yuyue()}, {alexia.alexia()}, {rachna.rachna()}, {karolina.karolina()}, and {luca.luca()}.\n')
 
-print("Act one: \n")
 def act1():
     print(jelle.chapter1())
     print(yuyue.chapter1())
@@ -17,7 +16,6 @@ def act1():
     print(karolina.chapter1())
     print(luca.chapter1(),"\n")
 
-print("Act two: \n")
 def act2():
     print(jelle.chapter2())
     print(yuyue.chapter2())
@@ -25,8 +23,7 @@ def act2():
     print(rachna.chapter2())
     print(karolina.chapter2())
     print(luca.chapter2(),"\n")
-
-print("Act three: \n")    
+  
 def act3():
     print(jelle.chapter3())
     print(yuyue.chapter3())
@@ -36,7 +33,10 @@ def act3():
     print(luca.chapter3())
     
 teamname()
+print("Act one: \n")
 act1()
+print("Act two: \n")
 act2()
+print("Act three: \n")
 act3()
 
