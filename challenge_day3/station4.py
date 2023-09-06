@@ -1,5 +1,7 @@
 def solution_station_4(input):
-    if input % 2 == 0:
-        return False
-    else:
-        return True
+	for i in range(2, int(input/2)+1):
+		if (input % i) == 0:
+			return True
+		break
+	else:
+		return False
