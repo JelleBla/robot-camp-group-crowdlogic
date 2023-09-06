@@ -12,7 +12,3 @@ def solution_station_1(n):
             a = b
             b = c
         return b
-    
-
-
-
