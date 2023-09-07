@@ -712,3 +712,67 @@ Caused by: java.nio.file.FileSystemNotFoundException: Provider "output" not inst
 	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
 	... 16 more
 
+2023.09.07 20:13:15 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\CSSci\crowdlogic\robot-camp-group-crowdlogic\challenge_day4\.metals\dap-server.trace.json or C:\Users\13911\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.09.07 20:13:15 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\CSSci\crowdlogic\robot-camp-group-crowdlogic\challenge_day4\.metals\dap-client.trace.json or C:\Users\13911\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.09.07 20:13:15 INFO  Starting debug proxy for [Hello]
+2023.09.07 20:13:17 INFO  Loaded expression compiler in 1 second
+2023.09.07 20:13:17 INFO  C:\Users\13911\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\ch\epfl\scala\scala-debug-step-filter_3\3.1.3\scala-debug-step-filter_3-3.1.3.jar
+2023.09.07 20:13:17 INFO  C:\Users\13911\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\tasty-core_3\3.3.0\tasty-core_3-3.3.0.jar
+2023.09.07 20:13:17 INFO  C:\Users\13911\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.3.0\scala3-library_3-3.3.0.jar
+2023.09.07 20:13:17 INFO  C:\Users\13911\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\ch\epfl\scala\tasty-query_3\0.7.9\tasty-query_3-0.7.9.jar
+2023.09.07 20:13:17 INFO  C:\Users\13911\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.10\scala-library-2.13.10.jar
+2023.09.07 20:13:17 INFO  Loaded step filter in 198 milliseconds
+2023.09.07 20:13:19 INFO  Loaded all sources and classes in 2 seconds
+2023.09.07 20:13:19 INFO  Trying to attach to remote debuggee VM iprotect.cloudcore.cn:52543 .
+2023.09.07 20:13:19 INFO  Attaching to debuggee VM succeeded.
+2023.09.07 20:13:20 INFO  Canceling debug proxy for [Hello]
+2023.09.07 20:13:19 INFO  Closing debug server tcp://0.0.0.0:52541
+2023.09.07 20:13:41 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\CSSci\crowdlogic\robot-camp-group-crowdlogic\challenge_day4\.metals\dap-server.trace.json or C:\Users\13911\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.09.07 20:13:41 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\CSSci\crowdlogic\robot-camp-group-crowdlogic\challenge_day4\.metals\dap-client.trace.json or C:\Users\13911\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.09.07 20:13:41 INFO  Starting debug proxy for [Main]
+2023.09.07 20:13:41 INFO  Loaded expression compiler in 0 milliseconds
+2023.09.07 20:13:41 INFO  Loaded step filter in 0 milliseconds
+2023.09.07 20:13:42 INFO  Loaded all sources and classes in 1 second
+2023.09.07 20:13:42 INFO  Trying to attach to remote debuggee VM iprotect.cloudcore.cn:52567 .
+2023.09.07 20:13:42 INFO  Attaching to debuggee VM succeeded.
+2023.09.07 20:13:42 ERROR Exception in thread "main" java.io.FileNotFoundException: data6.txt (系统找不到指定的文件。)
+2023.09.07 20:13:42 ERROR 	at java.base/java.io.FileInputStream.open0(Native Method)
+2023.09.07 20:13:42 ERROR 	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+2023.09.07 20:13:42 ERROR 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+2023.09.07 20:13:42 ERROR 	at scala.io.Source$.fromFile(Source.scala:94)
+2023.09.07 20:13:42 ERROR 	at scala.io.Source$.fromFile(Source.scala:79)
+2023.09.07 20:13:42 ERROR 	at scala.io.Source$.fromFile(Source.scala:57)
+2023.09.07 20:13:42 ERROR 	at Main$.main(Main.scala:7)
+2023.09.07 20:13:42 ERROR 	at Main.main(Main.scala)
+2023.09.07 20:13:42 INFO  Closing debug server tcp://0.0.0.0:52565
+2023.09.07 20:13:43 INFO  Canceling debug proxy for [Main]
+2023.09.07 20:14:08 INFO  compiling challenge_day4_bd2c96d2de (1 scala source)
+2023.09.07 20:14:08 INFO  Deduplicating compilation of challenge_day4_bd2c96d2de from bsp client 'scala-cli 1.0.4' (since 18m 56.314s)
+2023.09.07 20:14:08 INFO  compiling challenge_day4_bd2c96d2de (1 scala source)
+2023.09.07 20:14:08 INFO  time: compiled challenge_day4_bd2c96d2de in 0.27s
+2023.09.07 20:14:09 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\CSSci\crowdlogic\robot-camp-group-crowdlogic\challenge_day4\.metals\dap-server.trace.json or C:\Users\13911\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.09.07 20:14:09 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\CSSci\crowdlogic\robot-camp-group-crowdlogic\challenge_day4\.metals\dap-client.trace.json or C:\Users\13911\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.09.07 20:14:09 INFO  Starting debug proxy for [Main]
+2023.09.07 20:14:09 INFO  Loaded expression compiler in 0 milliseconds
+2023.09.07 20:14:09 INFO  Loaded step filter in 1 millisecond
+2023.09.07 20:14:11 INFO  Loaded all sources and classes in 1 second
+2023.09.07 20:14:11 INFO  Trying to attach to remote debuggee VM iprotect.cloudcore.cn:52593 .
+2023.09.07 20:14:11 INFO  Attaching to debuggee VM succeeded.
+2023.09.07 20:14:11 INFO  Canceling debug proxy for [Main]
+2023.09.07 20:14:11 INFO  Closing debug server tcp://0.0.0.0:52591
+9月 07, 2023 8:38:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 07, 2023 8:38:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 07, 2023 8:38:23 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+9月 07, 2023 10:49:19 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2023.09.07 22:49:19 INFO  compiling challenge_day4_bd2c96d2de (1 scala source)
+2023.09.07 22:49:19 INFO  time: compiled challenge_day4_bd2c96d2de in 0.98s
+2023.09.07 22:50:01 INFO  compiling challenge_day4_bd2c96d2de (1 scala source)
+2023.09.07 22:50:02 WARN  Could not load snapshot text for D:\CSSci\crowdlogic\robot-camp-group-crowdlogic\challenge_day4\scala_step6\Main.scala
+2023.09.07 22:50:03 INFO  time: compiled challenge_day4_bd2c96d2de in 1.6s
+9月 07, 2023 10:51:03 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 269
+2023.09.07 22:51:14 INFO  time: code lens generation in 2.59s
